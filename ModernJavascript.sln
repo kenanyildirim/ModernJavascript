@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{70C9063F-45E8-48F3-9D32-1FE5ADC8D5A4}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{D2EC10CA-4F25-45F8-8EDE-9DFFC6EC9E05}"
+	ProjectSection(SolutionItems) = preProject
+		primitivetypes.js = primitivetypes.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D2EC10CA-4F25-45F8-8EDE-9DFFC6EC9E05} = {70C9063F-45E8-48F3-9D32-1FE5ADC8D5A4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {991D128D-A7BF-44EC-B3E7-413E98C4F10B}
+	EndGlobalSection
+EndGlobal
