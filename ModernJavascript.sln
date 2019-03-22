@@ -11,6 +11,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{D2EC10CA-4F25-45F8-8EDE-9DFFC6EC9E05}"
 	ProjectSection(SolutionItems) = preProject
 		primitivetypes.js = primitivetypes.js
+		referenceTypes.js = referenceTypes.js
 	EndProjectSection
 EndProject
 Global
